@@ -9,9 +9,9 @@ There is a `<input>` search placeholder with a search `<button>` that can expand
 
 ## Languages
 
-HTML5
-CSS3
-JS
+1. HTML5
+2. CSS3
+3. JS
 
 ## Implementation
 
